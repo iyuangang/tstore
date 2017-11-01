@@ -1,0 +1,3 @@
+2017-05-15 15:47:32 - PHP Notice:  Undefined variable: help_alert_email in /var/www/html/ny/admin/view/template/setting/setting.tpl on line 1250
+2017-05-15 15:51:34 - PHP Notice:  Undefined variable: help_alert_email in /var/www/html/ny/admin/view/template/setting/setting.tpl on line 1250
+2017-05-15 15:53:57 - PHP Notice:  Undefined variable: help_alert_email in /var/www/html/ny/admin/view/template/setting/setting.tpl on line 1250
