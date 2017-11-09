@@ -5839,7 +5839,7 @@ INSERT INTO `mcc_faq_description` (`faq_id`, `language_id`, `title`, `answer`) V
 (27, 3, '问题3', '&lt;p&gt;问题3&lt;br&gt;&lt;/p&gt;'),
 (27, 2, '问题3', '&lt;p&gt;问题3&lt;br&gt;&lt;/p&gt;'),
 (27, 1, '问题3', '&lt;p&gt;问题3&lt;br&gt;&lt;/p&gt;'),
-(25, 1, '天天买系统可以商用吗？', '&lt;p&gt;是的，完全可以！!！&lt;br&gt;&lt;br&gt;天天买系统遵循GPL3协议，您可以用它来用作商业网站。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;'),
+(25, 1, '大麦传媒系统可以商用吗？', '&lt;p&gt;是的，完全可以！!！&lt;br&gt;&lt;br&gt;大麦传媒系统遵循GPL3协议，您可以用它来用作商业网站。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;'),
 (28, 1, '问题4', '&lt;p&gt;问题4&lt;br&gt;&lt;/p&gt;'),
 (28, 2, '问题4', '&lt;p&gt;问题4&lt;br&gt;&lt;/p&gt;'),
 (28, 3, '问题4', '&lt;p&gt;问题4&lt;br&gt;&lt;/p&gt;'),
@@ -5861,8 +5861,8 @@ INSERT INTO `mcc_faq_description` (`faq_id`, `language_id`, `title`, `answer`) V
 (34, 1, '问题10', '&lt;p&gt;问题10&lt;br&gt;&lt;/p&gt;'),
 (34, 2, '问题10', '&lt;p&gt;问题10&lt;br&gt;&lt;/p&gt;'),
 (34, 3, '问题10', '&lt;p&gt;问题10&lt;br&gt;&lt;/p&gt;'),
-(25, 2, '天天买系统可以商用吗？', '&lt;p&gt;是的，完全可以！!！&lt;br&gt;&lt;br&gt;天天买系统遵循GPL3协议，您可以用它来用作商业网站。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;。&lt;br&gt;&lt;br&gt;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;'),
-(25, 3, '天天买系统可以商用吗？', '&lt;p&gt;是的，完全可以！!！&lt;br&gt;&lt;br&gt;天天买系统遵循GPL3协议，您可以用它来用作商业网站。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;');
+(25, 2, '大麦传媒系统可以商用吗？', '&lt;p&gt;是的，完全可以！!！&lt;br&gt;&lt;br&gt;大麦传媒系统遵循GPL3协议，您可以用它来用作商业网站。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;。&lt;br&gt;&lt;br&gt;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;'),
+(25, 3, '大麦传媒系统可以商用吗？', '&lt;p&gt;是的，完全可以！!！&lt;br&gt;&lt;br&gt;大麦传媒系统遵循GPL3协议，您可以用它来用作商业网站。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;');
 
 -- --------------------------------------------------------
 
@@ -8467,16 +8467,16 @@ INSERT INTO `mcc_setting` (`setting_id`, `store_id`, `code`, `key`, `value`, `se
 (3777, 0, 'config', 'config_telephone', '18205187888', 0),
 (3768, 0, 'config', 'config_theme', 'theme_default', 0),
 (3769, 0, 'config', 'config_layout_id', '4', 0),
-(3770, 0, 'config', 'config_name', '天天买农业', 0),
-(3771, 0, 'config', 'config_owner', '江苏天天买', 0),
+(3770, 0, 'config', 'config_name', '大麦传媒农业', 0),
+(3771, 0, 'config', 'config_owner', '江苏大麦传媒', 0),
 (3772, 0, 'config', 'config_address', '江苏省南京市浦口区浦珠北路133号', 0),
 (3776, 0, 'config', 'config_email', '36335130@qq.com', 0),
 (3774, 0, 'config', 'config_map_select', 'baidu', 0),
 (3775, 0, 'config', 'config_geocode', '120.191457,35.959145', 0),
 (3773, 0, 'config', 'config_miit', '苏ICP备13057902号', 0),
-(3767, 0, 'config', 'config_meta_keyword', '大麦传媒科技, 天天买农业', 0),
-(3766, 0, 'config', 'config_meta_description', '大麦传媒科技 - 天天买农业', 0),
-(3765, 0, 'config', 'config_meta_title', '大麦传媒科技 - 天天买农业', 0),
+(3767, 0, 'config', 'config_meta_keyword', '大麦传媒科技, 大麦传媒农业', 0),
+(3766, 0, 'config', 'config_meta_description', '大麦传媒科技 - 大麦传媒农业', 0),
+(3765, 0, 'config', 'config_meta_title', '大麦传媒科技 - 大麦传媒农业', 0),
 (3859, 0, 'config', 'config_error_display', '1', 0),
 (3860, 0, 'config', 'config_error_log', '1', 0),
 (3861, 0, 'config', 'config_error_filename', 'error.log', 0),
